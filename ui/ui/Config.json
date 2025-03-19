@@ -1,0 +1,75 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        21,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Don’t use comments in this config files,you can configurate the movement of the dynamic image here"
+            ],
+            [
+                "Dynamic image config file name (Don't modify the file name)"
+            ],
+            [
+                "./event_assets/event_ui/wall_assets/config-dynamic-img.json"
+            ],
+            [
+                "How many dynamic image file in the project?(How many dynamic images will collected in an event?)"
+            ],
+            [
+                150
+            ],
+            [
+                "How many dynamic image file at most show in the same time?"
+            ],
+            [
+                12
+            ],
+            [
+                "How often to check new dynamic images (second)"
+            ],
+            [
+                3
+            ],
+            [
+                "the time interval (second) between the first dynamic image and the second dynamic image"
+            ],
+            [
+                3
+            ],
+            [
+                "dynamic picture name display (default:1) no need to modified"
+            ],
+            [
+                1
+            ],
+            [
+                "Dynamic image animation type (default:1) no need to modified"
+            ],
+            [
+                1
+            ],
+            [
+                "Dynamic image movingspeed (How fast dynamic image move. unit:pixel per frame or *60 pixel per second)"
+            ],
+            [
+                2
+            ],
+            [
+                "Dynamic image height"
+            ],
+            [
+                140
+            ],
+            [
+                "Static images loading config file name"
+            ],
+            [
+                "./event_assets/event_ui/wall_assets/static/0_StaticImageData.json"
+            ]
+        ]
+    ]
+}

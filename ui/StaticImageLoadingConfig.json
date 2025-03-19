@@ -1,0 +1,27 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        5,
+        1
+    ],
+    "data": [
+        [
+            [
+                "(Don’t use comments in this config files,You can  configurate the loading folder of static image file and how many images load in the project.)"
+            ],
+            [
+                "Static images loading config file name"
+            ],
+            [
+                "./StaticImageData.json"
+            ],
+            [
+                "ServerEventID"
+            ],
+            [
+                "mark-wedding"
+            ]
+        ]
+    ]
+}

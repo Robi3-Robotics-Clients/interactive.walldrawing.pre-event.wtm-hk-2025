@@ -1,0 +1,87 @@
+{
+    "c2array": true,
+    "size": [
+        1,
+        25,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Don’t use comments in this config files,In this file, you can  configurate the movement of logo and the position of the decription image here."
+            ],
+            [
+                "Logo speed(pixels per second)"
+            ],
+            [
+                165
+            ],
+            [
+                "Logo moving mode(1:Logo go right 2:Logo go left 3:Logo go up 4:Logo go down )"
+            ],
+            [
+                1
+            ],
+            [
+                "the time interval (second) between the first Logo and the second Logo"
+            ],
+            [
+                3
+            ],
+            [
+                "Logo image width on display (the higher value, the bigger logo on the screen)"
+            ],
+            [
+                120
+            ],
+            [
+                "Description image width (Change the size of the Description here)"
+            ],
+            [
+                420
+            ],
+            [
+                "Description image height (Change the size of the Description here)"
+            ],
+            [
+                170
+            ],
+            [
+                "Description image posttion X  (Change the position of the Description here)"
+            ],
+            [
+                1386
+            ],
+            [
+                "Description image posttion Y  (Change the position of the Description here)"
+            ],
+            [
+                781
+            ],
+            [
+                "Logo generate position X (where the logo generate)"
+            ],
+            [
+                0
+            ],
+            [
+                "Logo generate position Y (where the logo generate)"
+            ],
+            [
+                120
+            ],
+            [
+                "Logo destination position X (moving right LogoEndx=logostartX+logoNo*logoSec*Logospeed)"
+            ],
+            [
+                15900
+            ],
+            [
+                "Logo destination position Y "
+            ],
+            [
+                120
+            ]
+        ]
+    ]
+}
